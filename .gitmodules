@@ -7,3 +7,6 @@
 [submodule ".\\pack\\andyrallis\\start\\vim-elixir"]
 	path = .\\pack\\andyrallis\\start\\vim-elixir
 	url = https://github.com/elixir-editors/vim-elixir.git
+[submodule ".\\pack\\andyrallis\\opt\\coc.nvim"]
+	path = .\\pack\\andyrallis\\opt\\coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git

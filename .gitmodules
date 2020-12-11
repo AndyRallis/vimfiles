@@ -7,3 +7,9 @@
 [submodule "./pack/andyrallis/start/vim-elixir"]
 	path = pack/andyrallis/start/vim-elixir
 	url = https://github.com/elixir-editors/vim-elixir.git
+[submodule "pack/andyrallis/start/nerdtree"]
+	path = pack/andyrallis/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/andyrallis/start/vim-haskell"]
+	path = pack/andyrallis/start/vim-haskell
+	url = https://github.com/elliottt/vim-haskell.git

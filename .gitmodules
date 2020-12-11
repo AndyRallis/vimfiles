@@ -13,3 +13,6 @@
 [submodule "pack/andyrallis/start/vim-haskell"]
 	path = pack/andyrallis/start/vim-haskell
 	url = https://github.com/elliottt/vim-haskell.git
+[submodule "pack/andyrallis/start/vim-hindent"]
+	path = pack/andyrallis/start/vim-hindent
+	url = https://github.com/alx741/vim-hindent.git

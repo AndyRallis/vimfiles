@@ -16,3 +16,6 @@
 [submodule "pack/andyrallis/start/neoformat"]
 	path = pack/andyrallis/start/neoformat
 	url = https://github.com/sbdchd/neoformat.git
+[submodule "pack/andyrallis/start/vim-hoogle"]
+	path = pack/andyrallis/start/vim-hoogle
+	url = https://github.com/Twinside/vim-hoogle.git

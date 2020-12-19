@@ -5,3 +5,7 @@ set number
 
 let g:coc_global_extensions = ['coc-json', 'coc-elixir']
 map <C-n> :NERDTreeToggle<CR>
+
+inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
+inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
+inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"

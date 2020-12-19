@@ -19,3 +19,6 @@
 [submodule "pack/andyrallis/start/molokai"]
 	path = pack/andyrallis/start/molokai
 	url = https://github.com/tomasr/molokai.git
+[submodule "pack/andyrallis/start/auto-pairs"]
+	path = pack/andyrallis/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git

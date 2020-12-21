@@ -1,7 +1,13 @@
 syntax enable
-colorscheme molokai
-let g:molokai_original = 1
+
+set background=dark
+let g:solarized_termcolors=256
+let g:solarized_visibility="high"
+let g:solarized_contrast="high"
+colorscheme solarized
+
 set number
+set autoindent
 
 let g:coc_global_extensions = ['coc-json', 'coc-elixir']
 map <C-n> :NERDTreeToggle<CR>

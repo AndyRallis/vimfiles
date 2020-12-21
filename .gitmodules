@@ -16,9 +16,9 @@
 [submodule "pack/andyrallis/start/vim-hoogle"]
 	path = pack/andyrallis/start/vim-hoogle
 	url = https://github.com/Twinside/vim-hoogle.git
-[submodule "pack/andyrallis/start/molokai"]
-	path = pack/andyrallis/start/molokai
-	url = https://github.com/tomasr/molokai.git
 [submodule "pack/andyrallis/start/auto-pairs"]
 	path = pack/andyrallis/start/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "pack/andyrallis/start/vim-colors-solarized"]
+	path = pack/andyrallis/start/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git

@@ -10,7 +10,7 @@ set number
 set autoindent
 
 let g:coc_global_extensions = ["coc-json", "coc-tsserver", "coc-json", "coc-html", "coc-css"]
-""map <C-n> :NERDTreeToggle<CR>
+map <C-n> :NERDTreeToggle<CR>
 
 inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"

@@ -7,15 +7,9 @@
 [submodule "pack/andyrallis/start/nerdtree"]
 	path = pack/andyrallis/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
-[submodule "pack/andyrallis/start/vim-haskell"]
-	path = pack/andyrallis/start/vim-haskell
-	url = https://github.com/elliottt/vim-haskell.git
 [submodule "pack/andyrallis/start/neoformat"]
 	path = pack/andyrallis/start/neoformat
 	url = https://github.com/sbdchd/neoformat.git
-[submodule "pack/andyrallis/start/vim-hoogle"]
-	path = pack/andyrallis/start/vim-hoogle
-	url = https://github.com/Twinside/vim-hoogle.git
 [submodule "pack/andyrallis/start/auto-pairs"]
 	path = pack/andyrallis/start/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git

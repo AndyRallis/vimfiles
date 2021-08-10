@@ -19,3 +19,9 @@
 [submodule "pack/andyrallis/start/Nvim-R"]
 	path = pack/andyrallis/start/Nvim-R
 	url = https://github.com/jalvesaq/Nvim-R.git
+[submodule "pack/andyrallis/start/vlime"]
+	path = pack/andyrallis/start/vlime
+	url = https://github.com/l04m33/vlime.git
+[submodule "pack/andyrallis/start/paredit"]
+	path = pack/andyrallis/start/paredit
+	url = https://github.com/kovisoft/paredit

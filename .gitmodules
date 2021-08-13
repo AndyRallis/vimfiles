@@ -19,3 +19,9 @@
 [submodule "pack/andyrallis/start/Nvim-R"]
 	path = pack/andyrallis/start/Nvim-R
 	url = https://github.com/jalvesaq/Nvim-R.git
+[submodule "pack/andyrallis/start/tabular"]
+	path = pack/andyrallis/start/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "pack/andyrallis/start/vim-markdown"]
+	path = pack/andyrallis/start/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git

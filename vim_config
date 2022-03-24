@@ -1,14 +1,15 @@
 syntax enable
 
 set background=dark
-let g:solarized_termcolors=256
+set t_Co=256
+"let g:solarized_termcolors=256
 let g:solarized_visibility="high"
 let g:solarized_contrast="high"
 colorscheme solarized
 
 set number
 set autoindent
-let g:coc_global_extensions = ["coc-json", "coc-tsserver", "coc-json", "coc-html", "coc-css"]
+"let g:coc_global_extensions = ["coc-json", "coc-tsserver", "coc-json", "coc-html", "coc-css"]
 map <C-n> :NERDTreeToggle<CR>
 
 inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"

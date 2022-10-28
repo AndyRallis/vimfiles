@@ -7,3 +7,6 @@
 [submodule "pack/andyrallis/start/vim-colors-solarized"]
 	path = pack/andyrallis/start/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "pack/andyrallis/start/vim-tailwindcss"]
+	path = pack/andyrallis/start/vim-tailwindcss
+	url = https://github.com/mrdotb/vim-tailwindcss.git
